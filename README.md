@@ -44,11 +44,11 @@
 
         a:hover {
             border-bottom: 1px solid red
-</style>
- </head>
- <body marginwidth="0" marginheight="0">
- <canvas id="c" height="356" width="446">
-<script>
+    </style>
+</head>
+<body marginwidth="0" marginheight="0">
+     <canvas id="c" height="356" width="446">
+     <script>
    var collapsed = true;
    function toggle() {
     var fs = top.document.getElementsByTagName('frameset')[0];

@@ -1,6 +1,5 @@
-<!DOCTYPE HTML PUBLIC >
-<html>
-
+<!DOCTYPE HTML>
+<html lang="en">
 <head>
     <title>海婷圣诞节快乐</title>
     <meta charset="utf-8">

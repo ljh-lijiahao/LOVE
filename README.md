@@ -593,38 +593,5 @@
 
      }
 </script>
- 
-    <script>
-       
-        setInterval(function G(m,l)
-        {    
-            A=T(D-11);    
-            if(l)
-            return(        
-            m[2]-l[2])*A+(l[0]-m[0])*T(D);        
-            a.clearRect(0,0,W,W);        
-            J.sort(G);
-            for(        
-            i=0;        
-            L=J[i++];        
-            a.drawImage        
-            (            
-            M[L[3]+1],207+L[0]*A+L[2]*T(D)>>0,L[1]>>1)    )    
-            {        
-                if(i==2e3)        
-                a.fillText        
-                (            
-                '海婷圣诞节快乐',            
-                U,345);
-                if(!(i%7))        
-                a.drawImage        
-                (
-                M[13],
-                ((157*(i*i)+T(D*5+i*i)*5)%W)>>0,
-                ((113*i+(D*i)/60)%(290+i/99))>>0
-                );
-            }    
-            D+=.02
-        },1)
-    </script>
+
 </body>

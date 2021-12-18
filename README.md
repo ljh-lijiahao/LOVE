@@ -1,7 +1,7 @@
 <head>
  <meta charset="UTF-8">
 
- <title>Musical Christmas Lights</title>
+ <title>I-LOVE-YOU</title>
 
  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
@@ -595,55 +595,7 @@
 </script>
  
     <script>
-        M=Math;
-        Q=M.random;J=[];
-        U=16;
-        T=M.sin;
-        E=M.sqrt;
-        for(O=k=0;x=z=j=i=k<200;)
-        with(M[k]=k?c.cloneNode(0):c)
-        {    
-            width=height=k?32:W=446;        
-            with(getContext('2d'))        
-            if(k>10|!k)        
-            for(        
-            font='60px Impact',        
-            V='rgba(';I=i*U,fillStyle=k?k==13?V+'205,205,215,.15)':        
-            V+(147+I)+','+(k%2?128+I:0)+','+I+',.5)':'#cca',i<7;        
-            )    
-            beginPath(        
-            fill(            
-            arc(                
-            U-i/3,                
-            24-i/2,                
-            k==13?4-(i++)/2:8-i++,                
-            0,                
-            M.PI*2,1                
-            )            
-            )            
-            );
-            else for(;
-            x=T(i),        
-            y=Q()*2-1,        
-            D=x*x+y*y,        
-            B=E(D-x/.9-1.5*y+1),        
-            R=67*(B+1)*(L=k/9+.8)>>1,        
-            i++<W;        
-            )
-            if(D<1)    
-            beginPath(        
-            strokeStyle=V+R+','+(R+B*L>>0)+',40,.1)'        
-            ),        
-            moveTo(U+x*8,U+y*8),        
-            lineTo(U+x*U,U+y*U),        
-            stroke();
-            for(        
-            y=H=k+E(k++)*25,        
-            R=Q()*W;        
-            P=3,j<H;        
-            )    
-            J[O++]=[x+=T(R)*P+Q()*6-3,y+=Q()*U-8,z+=T(R-11)*P+Q()*6-3,j/H*20+((j+=U)>H&Q()>.8?Q(P=9)*4:0)>>1]
-        }
+       
         setInterval(function G(m,l)
         {    
             A=T(D-11);    
